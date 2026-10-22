@@ -1,0 +1,15 @@
+# Compiled Java
+*.class
+out/
+bin/
+target/
+
+# IDE and OS files
+.idea/
+*.iml
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
